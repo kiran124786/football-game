@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "football-club-manager-410a6",
+  "private_key_id": "4b620710ebcaf3460c122ae9a757feb53ecbcd5c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDT0juwhgvfG38/\ngvt9N5tJ8t8GENgGGgOyilr3Ku16FQwkUiOVczhYEQ/v0XrgKgxuEB+Ead3suZ15\nKvFvSX7Z8eTy3Jlf9Liz+OkVtPMxm5cb+CKSbwOIe1OAMwVOInvEmStRkkPmReLD\nqKdzT+LDxSMtvIc6jxWaWdIJIpmGUar+QKQsCX9R1MoZrcO9lA54XT/1cdBiMxHP\no3ZqCbssY8HGyAHHKPkz1GhFsk8F2IKGrEgvmaRCUUFFasXS0vCN07X/suheHXLc\n848w6idEGC7Jz46w/xusNAJLPuYeNRjjV14kbtOsW2dAa+cSXWSFsAA73ekJ7N3D\n/UMUKD2HAgMBAAECggEASgL0Ljq4HS2raZKnstniHZWKDcGG6aLfVdv36tMKBRUj\nl/FHU6ndrw/PJLlqGLc4fqCNkqO3EkbM2hCCKaNhel+F4sHnqVqFywSW1KnUK6o0\nw2YRFl9Jub91rp6lJObxngDy3N6hcO1MTZc5YxYvor3YC9wK2BA0uSjXNa/sOrzd\njLPNbmZ1HuFZnGxo6elcYWuBKD8qR9ZkpGN0LwXhBgHffngenZ0u7InhgWUQS+Dj\n07wTVP57AeA79R6p92tWC1I1pS0KMDVyzPy6b9Ko7wpz6ubedL1tYYqpP6AXmw3z\n5kzbzvzsH45HGEVKDR+/+DB6XORvovmxfUGXYeIfIQKBgQDxx9M8M8ZIOFj1Ucg5\nYQMLhyQ4LJM64/Sh2TXHCEZZoNgi/AXO5lJITBqsTEm2AFGUHEAGE2H1cUdIae5i\nZosPxFdv4+weMDmd5SrNU8GbAnB11wl6ubAovKmwGN950WgBlv1A3jLVQrnX4AoT\neqL5NwbIuXZQSS/+gTVBsRLMkQKBgQDgR1lniu2TAK6os9cgVNPAAHB8T8fIcwuw\nKGwXWJ4egLPQ9kBTQdWferoxMEKaG01+g0mIrLQtlqJoJUZmxqFdcU9G0daxtFmn\nIIFcLhBExyVE3gnBPe5HOszooBLaFNGp+IfWYCEPooqlXElAFducMi6Gylu9j/3J\nU8MXKNJUlwKBgH0qDCFjUCd8/BhrcPK7VP83w7lM4h8feTn8H0nc78ZgbOOXgk48\nj6Ybt8cwawxMF+9LvJ0olZKhRNyo8h6ApUbRRs6GuGpcXsdtpn3K+TQMzDlEzAR7\nckV0fYfLKI2AqY4BIzPck4YxV9H4il7RIuNO6DUrRaOEb9MaAn7ycx/xAoGBANSY\nbZQr6jW9oNKD3vljz3EiOX5s9bj57Otn9cZPl1rcrxb2RlVlg4TwBgzYbVm9ZcD1\n3D91TjoknwBPzSNhR9bWsMo14OiER7OXqWfitkMr7xUP0HlgJj1Y7KHaEuSsdW5E\nCydX6h7y+a/0Ae+AiLLQErBso3fWRUCRaM3MQUwzAoGAGQ3oIlMKI4WpGGfbX34o\nUQs5Sk4k3Gf7v/KgpnywcnA6WgWQ5Z0+EWYd2F2+HCFm1rdt9ABHCNhI7g3g54/1\nOYUHgMccViZYomSyraiWEPBbZuASNU8o8bRR0gCDMYQVkD1ILhQj9dcncVLGeBWl\nHDHCSr9ZKh+UmDvdaJtGw5w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@football-club-manager-410a6.iam.gserviceaccount.com",
+  "client_id": "117517173575099885361",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40football-club-manager-410a6.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
